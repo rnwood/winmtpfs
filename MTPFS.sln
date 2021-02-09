@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPDSharp", "WPDSharp\WPDSharp.csproj", "{F19E8CE3-18B1-4132-B2ED-7AB585377113}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTPFS", "MTPFS\MTPFS.csproj", "{2708278F-4A91-49D0-8D46-AD8EEA07DB06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F19E8CE3-18B1-4132-B2ED-7AB585377113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F19E8CE3-18B1-4132-B2ED-7AB585377113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F19E8CE3-18B1-4132-B2ED-7AB585377113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F19E8CE3-18B1-4132-B2ED-7AB585377113}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2708278F-4A91-49D0-8D46-AD8EEA07DB06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2708278F-4A91-49D0-8D46-AD8EEA07DB06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2708278F-4A91-49D0-8D46-AD8EEA07DB06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2708278F-4A91-49D0-8D46-AD8EEA07DB06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
